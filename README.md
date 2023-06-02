@@ -1,2 +1,2 @@
 # rep04
-这是一个基本的代码仓库
+This is a basic code repository
